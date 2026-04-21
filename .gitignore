@@ -25,3 +25,7 @@ desktop.ini
 
 # Node (if adding tooling later)
 node_modules/
+
+# OpenClaw credentials
+.openclaw/
+openclaw.json
